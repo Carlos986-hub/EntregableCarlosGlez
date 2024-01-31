@@ -6,3 +6,9 @@ h1{
 img{
     height: 200px;
 }
+
+li{
+    list-style: none;
+    background-color: orange;
+    width: fit-content;
+}
